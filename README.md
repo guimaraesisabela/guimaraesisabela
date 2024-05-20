@@ -3,5 +3,7 @@
 - 🌱 I’m currently learning HTML, CSS, JavaScript and Java
 - 😄 My pronouns are she/her
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guimaraesisabela&theme=jolly_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guimaraesisabela&layout=compact)
+
+
 
