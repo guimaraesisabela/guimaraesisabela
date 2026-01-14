@@ -6,7 +6,7 @@
 
 <div align="center">
   <span>
-    <img src="https://github.com/user-attachments/assets/5facfe1b-a91e-4a37-afa5-ec102a6af46f" height="80" />
+    <img src="https://github.com/user-attachments/assets/5facfe1b-a91e-4a37-afa5-ec102a6af46f" height="120" />
   </span>
   &nbsp;&nbsp;&nbsp;
   <span>
@@ -14,7 +14,7 @@
   </span>
   &nbsp;&nbsp;&nbsp;
   <span>
-    <img src="https://github.com/user-attachments/assets/34157ce8-dcfd-498b-814f-feea89a7db8a" height="80" />
+    <img src="https://github.com/user-attachments/assets/34157ce8-dcfd-498b-814f-feea89a7db8a" height="100" />
   </span>
 </div>
 
