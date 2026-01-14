@@ -5,22 +5,17 @@
  
 
 <div align="center">
-  <img 
-    src="https://github.com/user-attachments/assets/5facfe1b-a91e-4a37-afa5-ec102a6af46f"
-    height="80"
-    style="margin-right: 20px;"
-  />
-
-  <img 
-    src="https://skillicons.dev/icons?i=js,ts,html,css,angular,react,vue,github"
-    height="60"
-    style="margin-right: 20px;"
-  />
-
-  <img 
-    src="https://github.com/user-attachments/assets/34157ce8-dcfd-498b-814f-feea89a7db8a"
-    height="80"
-  />
+  <span>
+    <img src="https://github.com/user-attachments/assets/5facfe1b-a91e-4a37-afa5-ec102a6af46f" height="80" />
+  </span>
+  &nbsp;&nbsp;&nbsp;
+  <span>
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,angular,react,vue,github" height="60" />
+  </span>
+  &nbsp;&nbsp;&nbsp;
+  <span>
+    <img src="https://github.com/user-attachments/assets/34157ce8-dcfd-498b-814f-feea89a7db8a" height="80" />
+  </span>
 </div>
 
 
