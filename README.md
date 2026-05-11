@@ -10,7 +10,7 @@
   </span>
   &nbsp;&nbsp;&nbsp;
   <span>
-    <img src="https://skillicons.dev/icons?i=js,ts,html,css,angular,react,vue,github" height="60" />
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,angular,react,vue,nodejs,express,github" height="60" />
   </span>
   &nbsp;&nbsp;&nbsp;
   <span>
