@@ -13,6 +13,9 @@
     <img src="https://skillicons.dev/icons?i=js,ts,html,css,angular,react,vue,nodejs,express,github" height="60" />
   </span>
   &nbsp;&nbsp;&nbsp;
+ <span>
+    <img src="https://github.com/user-attachments/assets/34157ce8-dcfd-498b-814f-feea89a7db8a" height="100" />
+  </span> 
 </div>
 
 
